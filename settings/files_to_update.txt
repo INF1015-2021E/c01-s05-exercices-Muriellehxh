@@ -1,0 +1,12 @@
+settings/files_to_update.txt
+settings/variables.txt
+
+README.md
+
+Exercises/_version_prof/main.cpp
+Exercises/_version_prof/print.cpp
+Exercises/_version_prof/lambda.cpp
+Exercises/_version_prof/Fraction.hpp
+Exercises/_version_prof/Fraction.cpp
+Exercises/_version_prof/Vector.hpp
+Exercises/_version_prof/Vector.cpp
