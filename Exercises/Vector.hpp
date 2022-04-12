@@ -21,7 +21,7 @@ using namespace iter;
 // on met classe template T
 template <typename T>
 class Vector {
-public:
+public: 
 	Vector() = default; // Petit truc pour dire au compilateur de générer pour nous le ctor par défaut.
 	Vector(const Vector& other); // Par copie
 	Vector(Vector&& other); // Par déplacement (ou par move)
